@@ -1,0 +1,201 @@
+group_id,predicted,original,label
+748919,500 gram,500.0 gram,1
+916768,,1.0 cup,0
+459516,0.709 gram,0.709 gram,1
+459516,0.709 gram,0.709 gram,1
+731432,,1400 milligram,0
+731432,1400 milligram,1400 milligram,1
+731432,1400 milligram,1400 milligram,1
+731432,1400 milligram,1400 milligram,1
+731432,1400 milligram,1400 milligram,1
+731432,1400 milligram,1400 milligram,1
+149159,30 kilogram,30.0 kilogram,1
+308856,10 kilogram,10 kilogram to 15 kilogram,0
+281678,100 gram,3.53 ounce,0
+281678,100 gram,3.53 ounce,0
+281678,100 gram,53 ounce,0
+281678,,100 gram,0
+731432,200 gram,200 gram,1
+731432,200 gram,1 kilogram,0
+731432,200 gram,200 gram,1
+731432,200 gram,200 gram,1
+731432,,200 gram,0
+252585,,4.0 gallon,0
+299791,2.7 gram,2.7 gram,1
+884560,28 gram,112 gram,0
+179080,4.1 kilogram,4.1 kilogram,1
+179080,48 volt,48.0 volt,1
+866516,158 gram,158.0 gram,1
+866516,158 gram,158.0 gram,1
+459516,5000 milligram,5000 milligram,1
+524635,55 gram,18.55 gram,0
+524635,55 gram,18.55 gram,0
+524635,1855 gram,18.55 gram,0
+524635,55 gram,18.55 gram,0
+524635,855 gram,18.55 gram,0
+730429,,50.0 gram,0
+881883,26 gram,26.0 gram,1
+179080,800 watt,800.0 watt,1
+179080,36 volt,36.0 volt,1
+601746,,330.0 pound,0
+487566,,31.0 ounce,0
+794161,10 gram,0.35 ounce,0
+639090,35 gram,35.0 gram,1
+752266,150 watt,150.0 watt,1
+752266,150 watt,150.0 watt,1
+752266,30 watt,30.0 watt,1
+752266,30 watt,30.0 watt,1
+299791,15.5 gram,15.5 gram,1
+237000,200 gram,200.0 gram,1
+179080,250 watt,250.0 watt,1
+884560,,10.0 ounce,0
+844474,0.8 kilogram,0.8 kilogram,1
+709627,169 gram,169.0 gram,1
+299791,10 gram,10.0 gram,1
+523149,,7.0 gram,0
+630390,750 gram,750.0 gram,1
+810266,160 gram,160.0 gram,1
+748919,270 gram,270.0 gram,1
+993359,500 gram,500 gram,1
+731432,60 gram,1 kilogram,0
+731432,60 gram,10 kilogram,0
+731432,60 gram,1 kilogram,0
+731432,1 kilogram,2.2 pound,0
+752266,60 watt,60.0 watt,1
+459516,30 millilitre,30.0 millilitre,1
+459516,30 millilitre,30.0 millilitre,1
+459516,30 millilitre,30.0 millilitre,1
+459516,30 millilitre,30.0 millilitre,1
+459516,30 millilitre,30.0 millilitre,1
+529606,2 gram,2 ounce,1
+299791,8.1 gram,8.1 gram,1
+308856,2 kilogram,2 kilogram,1
+308856,,10 kilogram,0
+681445,,500.0 kilogram,0
+365637,200 gram,200.0 gram,1
+365637,200 gram,200.0 gram,1
+365637,200 gram,200.0 gram,1
+365637,200 gram,200.0 gram,1
+365637,100 gram,100.0 gram,1
+365637,200 gram,200.0 gram,1
+487566,5 kilogram,5.0 kilogram,1
+767202,,60.0 pound,0
+369753,,3.0 cubic foot,0
+731432,4 milligram,227 gram,0
+709627,,100 gram,0
+639090,100 gram,190.0 gram,0
+639090,100 gram,100.0 gram,1
+459516,600 milligram,600 milligram,1
+630869,3.2 gram,3.2 gram,1
+630869,6.5 gram,6.5 gram,1
+881883,160 gram,160.0 gram,1
+558374,42 gram,42.0 gram,1
+601746,26 gram,26.0 gram,1
+752266,0.55 watt,0.55 watt,1
+254449,50 milligram,50.0 milligram,1
+523149,,10.0 kilogram,0
+416664,,49.0 watt,0
+459516,500 milligram,500 milligram,1
+459516,500 milligram,500 milligram,1
+241608,16 gram,16.0 gram,1
+308856,2 kilogram,8 kilogram,0
+459516,,500.0 millilitre,0
+630869,,3.0 pound,0
+459516,750 milligram,750.0 milligram,1
+308671,,8.0 gram,0
+299791,23 gram,23.0 gram,1
+630869,9.8 gram,9.8 gram,1
+442321,,198.0 pound,0
+991868,,9.0 kilogram,0
+208023,2.5 kilogram,2.5 kilogram,1
+593600,50 gram,50.0 gram,1
+459516,10 millilitre,10.0 millilitre,1
+459516,,200.0 millilitre,0
+299791,4.1 gram,4.1 gram,1
+630869,9.2 gram,9.2 gram,1
+308856,,600.0 gram,0
+308856,20 kilogram,20.0 kilogram,1
+731432,9 gram,13.0 gram,0
+731432,13 gram,13.0 gram,1
+731432,1000 milligram,1000.0 milligram,1
+908443,264 gram,264.0 gram,1
+308856,26 kilogram,34 kilogram,0
+299791,72.57 gram,72.57 gram,1
+459516,100 gram,100 gram,1
+731432,180 gram,180 gram,1
+731432,200 milligram,180 gram,0
+731432,500 milligram,180 gram,0
+731432,180 gram,180 gram,1
+731432,180 gram,180 gram,1
+630869,33 gram,33 gram,1
+523149,12.8 gram,8.0 gram,0
+558374,50.1 gram,1.77 ounce,0
+881883,350 gram,350.0 gram,1
+529606,567 gram,567.0 gram,1
+529606,567 gram,567.0 gram,1
+529606,567 gram,567.0 gram,1
+529606,567 gram,567.0 gram,1
+529606,567 gram,567.0 gram,1
+529606,567 gram,567.0 gram,1
+752266,60 watt,60.0 watt,1
+752266,240 volt,"[100.0, 240.0] volt",0
+916768,,25.0 millilitre,0
+893692,2.4 kilogram,2.4 kilogram,1
+120569,25 kilogram,25 kilogram,1
+564709,50 kilogram,50.0 kilogram,1
+593600,263 gram,263.0 gram,1
+507988,250 gram,250.0 gram,1
+507988,250 gram,250.0 gram,1
+459516,200 gram,200 gram,1
+599772,1.8 kilogram,1.8 kilogram,1
+601746,800 gram,800.0 gram,1
+630869,24.8 gram,24.8 gram,1
+483370,4 kilogram,4.0 kilogram,1
+459516,,"[8.0, 12.0] fluid ounce",0
+208023,3.59 kilogram,3.59 kilogram,1
+983323,12 volt,12.0 volt,1
+299791,7 gram,7 gram,1
+299791,9.8 gram,9.8 gram,1
+459516,,16.0 fluid ounce,0
+523149,3.8 gram,3.8 gram,1
+844474,0.45 kilogram,0.45 kilogram,1
+179080,,70.5 pound,0
+271537,12 volt,12.0 volt,1
+271537,2 volt,12.0 volt,0
+271537,12 volt,12.0 volt,1
+271537,,12.0 volt,0
+589105,,1.87 pound,0
+748919,125 gram,125.0 gram,1
+523149,21 gram,21.0 gram,1
+630869,30 gram,30.0 gram,1
+752266,265 volt,"[85.0, 265.0] volt",0
+459516,,4.0 fluid ounce,0
+459516,,4.0 fluid ounce,0
+459516,,4.0 fluid ounce,0
+459516,0.7 millilitre,0.7 millilitre,1
+459516,679 milligram,679.0 milligram,1
+459516,0.7 millilitre,4.0 fluid ounce,0
+881883,,500.0 gram,0
+120569,15 kilogram,15.0 kilogram,1
+641642,008 watt,8.0 watt,1
+311997,175 kilogram,175.0 kilogram,1
+311997,175 kilogram,175.0 kilogram,1
+281678,1 gram,1.0 gram,1
+318770,100 watt,100.0 watt,1
+318770,100 watt,100.0 watt,1
+318770,,100.0 watt,0
+318770,100 watt,100.0 watt,1
+241608,,460.0 gram,0
+955292,,3.0 watt,0
+767202,2 gram,23.0 kilogram,0
+369753,5 millilitre,3.0 millilitre,0
+365637,100 gram,300.0 gram,0
+810266,100 gram,100.0 gram,1
+639090,,22.0 gram,0
+731432,60 gram,3.0 gram,0
+731432,2 gram,3.0 gram,0
+731432,2 gram,3.0 gram,0
+731432,2 gram,2.0 ton,1
+150913,,15 kilogram,0
+630869,14.8 gram,14.8 gram,1
+675317,2 kilogram,4.4 pound,0
